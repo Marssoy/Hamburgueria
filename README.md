@@ -77,7 +77,7 @@
   </p>
   <p>
     <strong><a href="https://www.linkedin.com/posts/vinicius-marssoy_fala-rede-neste-post-vou-compartilhar-activity-7264328990557970434-P5aa?utm_source=share&utm_medium=member_desktop" target="_blank">
-    </a>Clique aqui para assistir o vídeo do passo a passo que postei no LinkedIn</strong>
+    Clique aqui para assistir o vídeo do passo a passo que postei no LinkedIn</a></strong>
   </p>
 
   <p>Espero que seja útil! 😄</p>
