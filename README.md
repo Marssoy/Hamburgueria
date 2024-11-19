@@ -76,7 +76,8 @@
     Sinta-se à vontade para clonar este repositório e personalizá-lo conforme suas necessidades.
   </p>
   <p>
-    <strong>https://www.linkedin.com/posts/vinicius-marssoy_fala-rede-neste-post-vou-compartilhar-activity-7264328990557970434-P5aa?utm_source=share&utm_medium=member_desktop: Esse link redirecionapara o vídeo de passo a passo que postei no LinkedIn</strong>
+    <strong><a href="https://www.linkedin.com/posts/vinicius-marssoy_fala-rede-neste-post-vou-compartilhar-activity-7264328990557970434-P5aa?utm_source=share&utm_medium=member_desktop" target="_blank">
+    </a>Clique aqui para assistir o vídeo do passo a passo que postei no LinkedIn</strong>
   </p>
 
   <p>Espero que seja útil! 😄</p>
