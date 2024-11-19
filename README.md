@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README - Hamburgueria com AWS e Terraform</title>
 </head>
 <body>
   <h1>Infraestrutura para Site de Hamburgueria com AWS e Terraform 🍔</h1>
