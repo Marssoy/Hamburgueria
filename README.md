@@ -62,6 +62,7 @@
   <hr>
 
   <h2>🚀 Resultado</h2>
+  <img src="Web-EC2.gif" alt="Fluxo de pedido na Hamburgueria"
   <p>
     Uma aplicação completa com <strong>frontend e backend</strong>:
   </p>
